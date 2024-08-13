@@ -1,0 +1,4 @@
+// list all the content of the database
+
+db.school.find()
+
