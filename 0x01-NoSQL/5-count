@@ -1,0 +1,4 @@
+// show the list of all the data in the database
+
+db.school.count()
+
