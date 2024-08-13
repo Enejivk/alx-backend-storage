@@ -1,0 +1,4 @@
+// script that create of use a database
+
+use my_db;
+
